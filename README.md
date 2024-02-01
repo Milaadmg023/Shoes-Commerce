@@ -1,8 +1,8 @@
-# React + Vite
+Main Store is an e-commerce web application built with React js ,Tailwind Css, Redux Toolkit, React Redux. It allows users to view through a variety of products, add them to their cart, and checkout is under the construction.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features are:
+  1)Product Catalog: Browse through a wide range of products categorized into different sections.
+  2)Shopping Cart: Add products to the shopping cart and manage quantities before checkout.
+  3)Responsive Design: Responsive layout that ensures optimal user experience across various devices.
+  
+  
