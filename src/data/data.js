@@ -45,21 +45,21 @@ const heroapi = {
   sociallinks: [
     {
       icon: linkedln,
-      url: "https://www.linkedin.com/in/vairamuththu-vithushan-9404a424b/",
+      url: "https://github.com/Milaadmg023",
     },
     {
       icon: facebook,
-      url: "https://www.facebook.com/vithu.vithu.50596?mibextid=ZbWKwL",
+      url: "https://github.com/Milaadmg023",
     },
-    { icon: messenger, url: "https://m.me/vithu.vithu.50596" },
+    { icon: messenger, url: "https://github.com/Milaadmg023" },
     {
       icon: instagram,
-      url: "https://www.instagram.com/vithu.vithu.50596?igsh=MWpnbXY2OXVIN3J6Mw==",
+      url: "https://github.com/Milaadmg023",
     },
-    { icon: twitter, url: "https://www.twitter.com" },
+    { icon: twitter, url: "https://github.com/Milaadmg023" },
     {
       icon: youtube,
-      url: "https://youtube.com/@vithuvithu2875?si=ep4MaST1y0kLXMe4",
+      url: "https://github.com/Milaadmg023",
     },
   ],
 };
