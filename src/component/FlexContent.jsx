@@ -27,7 +27,7 @@ const FlexContent = ({
           >
             <button
               type="button"
-              className="button-theme bg-slate-900 shadow-slate-100 py-1.5"
+              className="button-theme bg-slate-900 shadow-slate-100 py-1.5 text-white"
             >
               {btn}
             </button>
